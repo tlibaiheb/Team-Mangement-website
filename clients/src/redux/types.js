@@ -1,0 +1,26 @@
+export const SET_USER = "SET_USER";
+export const ERRORS = "ERRORS";
+export const SET_PROFILE = "SET_PROFILE";
+export const SET_PROFILES = "SET_PROFILES";
+export const DELETE_PROFILE = "DELETE_PROFILE";
+
+export const SET_RECLAMATION = "SET_RECLAMATION";
+export const SET_RECLAMATIONS = "SET_RECLAMATIONS";
+export const DELETE_RECLAMATION = "DELETE_RECLAMATION";
+
+export const SET_RESIGNATION = "SET_RESIGNATION";
+export const SET_RESIGNATIONS = "SET_RESIGNATIONS";
+export const DELETE_RESIGNATION = "DELETE_RESIGNATION";
+ 
+
+export const SET_LEAVE = "SET_LEAVE";
+export const SET_LEAVES = "SET_LEAVES";
+export const DELETE_LEAVE = "DELETE_LEAVE";
+ 
+
+ 
+
+
+
+
+
